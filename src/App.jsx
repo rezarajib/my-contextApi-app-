@@ -8,6 +8,7 @@ import SimpleFrom from './components/simpleForm/SimpleFrom'
 function App() {
  
 
+
   return (
     <>
       
@@ -18,7 +19,7 @@ function App() {
      <div className='text-4xl text-center text-gray-400'>
       {/* <SimpleFrom/> */}
       {/* <FormActionUpdate/> */}
-      <ControlledField/>
+     <ControlledField/>
      </div>
 
   
